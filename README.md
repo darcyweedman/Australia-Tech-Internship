@@ -16,6 +16,7 @@ This repository is for keeping the list of Technology, IT and Software Engineeri
 | Company                                  | Role                                                                       | Application Date   |
 |:-----------------------------------------|:---------------------------------------------------------------------------|:-------------------|
 | AllMediaDesk                             | SWE Intern                                                                 | Jan 09             |
+| SNAP                                     | SWE Intern                                                                 | Jan 11             |
 | Switchboard                              | Technical Intern                                                           | Feb 02             |
 | Jump Trading                             | Software/Hardware Engineer Intern                                          | Feb 02             |
 | Here Technologies                        | SWE Intern                                                                 | Feb 02             |
